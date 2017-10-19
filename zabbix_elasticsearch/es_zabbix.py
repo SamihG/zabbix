@@ -1,7 +1,7 @@
 #!/usr/bin/python2.7
 
 # Created by Samih Gribi on 07 August 2017
-# Get ES (windows) Cluster information, nodes & caches informations and Services informations
+# Get ES Cluster information, nodes & caches informations and Services informations
 
 # Import librairies for json format, elasticsearch and process
 import json
