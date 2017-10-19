@@ -3,6 +3,7 @@ Creator : Samih Gribi
 Template to monitor Docker (only on Linux) engine, container and compose.
 
 You have to adapt the file UserParameter.docker_zabbix.conf where your script is located
+It use shell script.
 
 The template allow you to : 
 
@@ -16,7 +17,6 @@ The template allow you to :
 	Trigger alerts on the Container status (not running) and diskspace of the Container
 	
 Pre-requisite : 
-
 
 	User zabbix have to be in docker group
 	User zabbix needs sudo rights on /usr/sbin/dmsetup
