@@ -1,8 +1,8 @@
-# ElasticSearch 2.x Template for Zabbix
+# ElasticSearch 2.x Template for Zabbix 3.0
 Creator : Samih Gribi
 
 It work in Linux and Windows environment.
-you have to adapt the file UserParameter.es_zabbix.conf where your script is located
+You have to adapt the file UserParameter.es_zabbix.conf where your script is located
 
 The template allow you to : 
 
