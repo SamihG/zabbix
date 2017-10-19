@@ -9,7 +9,7 @@ The template allow you to :
 	Monitor ElasticSearch as a Cluster or Standalone
 	Discover and Monitor ElasticSearch Nodes of the Cluster
 	Monitor the State of the cluster (Green, Yellow, Red)
-	Monitor the availability of the API ElasticSearch (collect data trought the api default port 9200)
+	Monitor the availability of the API ElasticSearch (collect data through the api default port 9200)
 	Monitor the memory used in percent of the process :
 		elasticsearch (Linux) 
 		elasticsearch-service-x64 or elasticsearch-service-x86 (Windows)
